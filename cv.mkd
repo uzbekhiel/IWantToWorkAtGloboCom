@@ -1,19 +1,88 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
-
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+Área de Esporte, Área de Jornalismo, Área de Webmidia, Plataforma de Cadastro 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+<h3>SAULO DOS SANTOS FIRMINO</h3>
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+
+<h3>DADOS PESSOAIS</h3>
+
+<table>
+	<tr>
+		<td><strong>ENDEREÇO:</strong> Rua Joel Nunes, 200, apart. 401</td>
+		<td><strong>BAIRRO:</strong> Olaria</td>
+	</tr>
+	<tr>
+		<td><strong>CIDADE:</strong> Rio de Janeiro</td>
+		<td><strong>CEP:</strong> 21073-170</td>
+	</tr>
+	<tr>
+		<td><strong>ESTADO CIVIL:</strong> Solteiro</td>				
+		<td><strong>NASCIMENTO:</strong> 17/09/1987</td>
+	</tr>
+	<tr>
+		<td><strong>TELEFONE:</strong>	(21) 8619-1969/ (21) 3866-5515</td>
+		<td><strong>E-MAIL:</strong> saulofirmino@ymail.com</td>
+	</tr>
+	<tr>
+		<td><strong>LinkeIn</strong></td>
+		<td>http://www.linkedin.com/pub/saulo-firmino/18/73b/b6</td>
+	</tr>
+</table>
+
+<h3>FORMAÇÃO ACADÊMICA</h3>
+<ul>
+	<li>Ensino Superior – Universidade Estácio de Sá Curso Tecnológico de Sistemas para Internet.</li>
+	<li>Formação Técnica – FAETEC (Ferreira Viana) Eletrônica concomitante ao Ensino Médio</li>
+</ul>
+
+<h3>CONHECIMENTOS EXTRACURRICULARES</h3>
+<table>
+	<tr>
+		<td>PHP, XHTML, CSS, Mysql, JavascriptJquery, Java, C, SQL Server, C#, VB6, PostgreSQL, Crystal Reports, HTML 5</td><td>Conhecimentos adicionais por oficio</td>
+	</tr>
+	<tr>
+		<td>Curso de Inglês (Boa leitura e pronuncia mediana)</td><td>CCAA</td>
+	</tr>
+	<tr>
+		<td>Curso de Java, programação, organização com UML</td><td>SESC</td>
+	</tr>
+	<tr>
+		<td>Programação em banco de dados MySQL</td><td>SESC</td>
+	</tr>
+	<tr>
+		<td>Programação Java com uso do banco de dados MySQL</td><td>SESC</td>
+	</tr>
+</table>
+
+<h3>EXPERIÊNCIAS PROFISSIONAIS</h3>
+
+<h4>Toque a Campainha - Rio de Janeiro/RJ</h4>
+<p>
+<strong>Período:</strong> 12/2011 até presente data.<br/>
+<strong>Cargo:</strong> Analista de Sistema Jr<br/>
+<strong>Função:</strong> Desempenho função de analista e desenvolvedor de sistemas web (em C#) e desktop (em VB6).<br/>
+</p>
+<h4>Alba Tecnologia - Rio de Janeiro/RJ</h4>
+<p>
+<strong>Período:</strong> 01/2011 até 12/2011<br/>
+<strong>Cargo:</strong> Desenvolvedor Web<br/>
+<strong>Função:</strong> Desenvolvendo em HTML, Javascript e PHP. Uso de frameworks como Drupal e Jquery.<br/>
+</p>
+<h4>Talentar - Rio de Janeiro/RJ</h4>
+<p>
+<strong>Período:</strong> 03/2010 até 06/2010<br/>
+<strong>Cargo:</strong> Desenvolvedor Web<br/>
+<strong>Função:</strong> Desenvolvimento em PHP e Javascript utilizando o framework CakePHP.<br/>
+</p>
+<h4>EJCM - Rio de Janeiro/RJ</h4>
+<p>
+<strong>Período:</strong> 05/2007 até 11/2007<br/>
+<strong>Cargo:</strong> Acionista/ Desenvolvedor Web<br/>
+<strong>Função:</strong> Atuação em desenvolvimento de sistemas web e manutenção de máquinas, gerenciamento e analises de projetos, atuação em processos de criação desses projetos, gerenciamento de equipes.<br/>
+</p>
+
