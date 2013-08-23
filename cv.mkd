@@ -36,9 +36,9 @@ CV
 
 <h3>FORMAÇÃO ACADÊMICA</h3>
 <ul>
-	<li>Ensino Superior – Universidade Estácio de Sá Curso Tecnológico de Sistemas para Internet.</li>
-	<li>Ensino Superior – Universidade Federal do Rio de Janeiro Curso de Graduação Ciência da Computação</li> 
-	<li>Formação Técnica – FAETEC (Ferreira Viana) Eletrônica concomitante ao Ensino Médio</li>
+	<li>Ensino Superior – Universidade Estácio de Sá, Curso Tecnológico de Sistemas para Internet.</li>
+	<li>Ensino Superior – Universidade Federal do Rio, de Janeiro Curso de Graduação Ciência da Computação</li> 
+	<li>Formação Técnica – FAETEC (Ferreira Viana), Eletrônica concomitante ao Ensino Médio</li>
 </ul>
 
 <h3>CONHECIMENTOS EXTRACURRICULARES</h3>
