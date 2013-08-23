@@ -37,6 +37,7 @@ CV
 <h3>FORMAÇÃO ACADÊMICA</h3>
 <ul>
 	<li>Ensino Superior – Universidade Estácio de Sá Curso Tecnológico de Sistemas para Internet.</li>
+	<li>Ensino Superior – Universidade Federal do Rio de Janeiro Curso de Graduação Ciência da Computação</li> 
 	<li>Formação Técnica – FAETEC (Ferreira Viana) Eletrônica concomitante ao Ensino Médio</li>
 </ul>
 
@@ -67,19 +68,19 @@ CV
 <strong>Cargo:</strong> Analista de Sistema Jr<br/>
 <strong>Função:</strong> Desempenho função de analista e desenvolvedor de sistemas web (em C#) e desktop (em VB6).<br/>
 </p>
-<h4>Alba Tecnologia - Rio de Janeiro/RJ</h4>
+<h4>Alba Tecnologia(Estágio) - Rio de Janeiro/RJ</h4>
 <p>
 <strong>Período:</strong> 01/2011 até 12/2011<br/>
 <strong>Cargo:</strong> Desenvolvedor Web<br/>
 <strong>Função:</strong> Desenvolvendo em HTML, Javascript e PHP. Uso de frameworks como Drupal e Jquery.<br/>
 </p>
-<h4>Talentar - Rio de Janeiro/RJ</h4>
+<h4>Talentar(Estágio) - Rio de Janeiro/RJ</h4>
 <p>
 <strong>Período:</strong> 03/2010 até 06/2010<br/>
 <strong>Cargo:</strong> Desenvolvedor Web<br/>
 <strong>Função:</strong> Desenvolvimento em PHP e Javascript utilizando o framework CakePHP.<br/>
 </p>
-<h4>EJCM - Rio de Janeiro/RJ</h4>
+<h4>EJCM(empresa júnior na UFRJ) - Rio de Janeiro/RJ</h4>
 <p>
 <strong>Período:</strong> 05/2007 até 11/2007<br/>
 <strong>Cargo:</strong> Acionista/ Desenvolvedor Web<br/>
